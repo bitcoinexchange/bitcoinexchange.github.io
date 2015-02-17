@@ -1,2 +1,2 @@
 # bitcoinexchange.github.io
-repository
+Repository for Github pages website
